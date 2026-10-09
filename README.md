@@ -1,7 +1,7 @@
 # 16_bit-alu
 A complete 16-bit Arithmetic Logic Unit using Verilog/VHDL,totally 16 operations included to built for learning and real-world simulation.
 # 🔧 16-bit ALU – Verilog Project
-### 🚀 Designed by [Your Name]  
+### 🚀 Designed by M Kamaraju  
 *A modular and testable 16-bit Arithmetic Logic Unit using Verilog.*
 
 ---
@@ -36,9 +36,9 @@ A complete 16-bit Arithmetic Logic Unit using Verilog/VHDL,totally 16 operations
 ---
 
 ## 👨‍💻 Author
-**[M kamaraju]**  
-📬 [LinkedIn](https://www.linkedin.com/in/your-link)  
-📧 mnithen79gmail.com
+**M Kamaraju**  
+📬 [LinkedIn](https://www.linkedin.com/in/magupallikamaraju/)  
+📧 [mnithen79@gmail.com](mailto:mnithen79@gmail.com)
 
 ---
 
